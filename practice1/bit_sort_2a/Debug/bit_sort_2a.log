@@ -1,0 +1,3 @@
+﻿  bit_sort_2a.cpp
+D:\siaod_3_sem\bit_sort_2a\bit_sort_2a.cpp(21,35): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  bit_sort_2a.vcxproj -> D:\siaod_3_sem\bit_sort_2a\Debug\bit_sort_2a.exe

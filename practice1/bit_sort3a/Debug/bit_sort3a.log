@@ -1,0 +1,5 @@
+﻿  bit_sort3a.cpp
+D:\siaod_3_sem\bit_sort3a\bit_sort3a.cpp(15,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\siaod_3_sem\bit_sort3a\bit_sort3a.cpp(23,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\siaod_3_sem\bit_sort3a\bit_sort3a.cpp(44,29): warning C4018: <: несоответствие типов со знаком и без знака
+  bit_sort3a.vcxproj -> D:\siaod_3_sem\bit_sort3a\Debug\bit_sort3a.exe
