@@ -1,3 +1,3 @@
 ﻿  bit_sort_1v.cpp
-D:\siaod_3_sem\bit_sort_1v\bit_sort_1v.cpp(17,33): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-  bit_sort_1v.vcxproj -> D:\siaod_3_sem\bit_sort_1v\Debug\bit_sort_1v.exe
+D:\siaod_3sem\practice1\bit_sort_1v\bit_sort_1v.cpp(14,33): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  bit_sort_1v.vcxproj -> D:\siaod_3sem\practice1\bit_sort_1v\Debug\bit_sort_1v.exe

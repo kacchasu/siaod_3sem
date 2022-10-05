@@ -1,1 +1,2 @@
 D:\siaod_3_sem\bit_sort_2v\Debug\bit_sort_2v.exe
+D:\siaod_3sem\practice1\bit_sort_2v\Debug\bit_sort_2v.exe

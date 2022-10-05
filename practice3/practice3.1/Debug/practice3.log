@@ -1,0 +1,4 @@
+﻿  practice3.cpp
+D:\siaod_3sem\practice3\practice3.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\siaod_3sem\practice3\practice3.cpp(36,31): warning C4018: <: несоответствие типов со знаком и без знака
+  practice3.vcxproj -> D:\siaod_3sem\practice3\Debug\practice3.exe
