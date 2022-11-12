@@ -1,0 +1,3 @@
+﻿  practice4.cpp
+D:\siaod_3sem\practice4\practice4.cpp(64): warning C4715: averageValue: значение возвращается не при всех путях выполнения
+  practice4.vcxproj -> D:\siaod_3sem\practice4\Debug\practice4.exe
