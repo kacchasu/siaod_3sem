@@ -1,0 +1,3 @@
+D:/siaod_3sem/practice6/practice6_haffman/cmake-build-debug/CMakeFiles/practice6_haffman.dir
+D:/siaod_3sem/practice6/practice6_haffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/siaod_3sem/practice6/practice6_haffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
