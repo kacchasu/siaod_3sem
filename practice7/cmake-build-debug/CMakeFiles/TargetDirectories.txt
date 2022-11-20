@@ -1,0 +1,3 @@
+D:/siaod_3sem/practice7/cmake-build-debug/CMakeFiles/practice7.dir
+D:/siaod_3sem/practice7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/siaod_3sem/practice7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
